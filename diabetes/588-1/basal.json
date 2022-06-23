@@ -1,0 +1,682 @@
+[
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-30T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-30T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-30T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-30T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 6.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T14:14:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T14:23:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-08-31T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T20:20:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-01T21:43:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.31,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T13:14:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T13:58:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T15:39:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T16:11:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T19:18:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-02T20:15:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T17:03:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-03T17:22:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T16:15:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T16:31:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T19:13:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-04T20:56:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-05T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-05T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-05T07:47:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-05T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T11:43:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T12:27:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-06T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-07T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-07T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-07T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-07T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-08T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-08T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-08T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-08T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T19:59:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-09T21:16:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T19:55:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-10T20:17:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T19:02:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-11T19:07:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-12T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-12T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-12T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-12T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.83,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T00:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.4,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T04:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.2,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T07:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T16:00:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 0.0,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T19:37:00",
+      "offset": "+00:00"
+    }
+  },
+  {
+    "level": 1.25,
+    "insulinPumpDevice": "mylife omnipod",
+    "when": {
+      "datetime": "2021-09-13T20:46:00",
+      "offset": "+00:00"
+    }
+  }
+]
